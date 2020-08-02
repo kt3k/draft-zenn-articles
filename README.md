@@ -1,6 +1,6 @@
 # Getting Started with Deno programming
 
-The draft of Getting Started with Deno programming
+A draft of Getting Started with Deno programming. Maybe this will be a draft forever.
 
 ## Assumed audience
 
