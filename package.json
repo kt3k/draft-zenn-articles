@@ -1,22 +1,13 @@
 {
-  "name": "getting-started-with-deno",
-  "version": "1.0.0",
-  "description": "A draft of Getting Started with Deno programming. Maybe this will be a draft forever.",
-  "main": "index.js",
+  "name": "draft-zenn-articles",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kt3k/draft-getting-started-with-deno-programming.git"
+    "url": "git+https://github.com/kt3k/draft-zenn-articles.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kt3k/draft-getting-started-with-deno-programming/issues"
-  },
-  "homepage": "https://github.com/kt3k/draft-getting-started-with-deno-programming#readme",
   "dependencies": {
     "zenn-cli": "^0.1.26"
   }
